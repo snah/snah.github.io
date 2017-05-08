@@ -3,8 +3,8 @@
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: default
+title: Welcome to my GitHub Page
 ---
-# Welcome to my GitHub Page
 
 ## About Me
 
